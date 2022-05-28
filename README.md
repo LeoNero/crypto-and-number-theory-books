@@ -8,4 +8,4 @@ This repository will contain:
 I took a graduate-level course in Cryptography last semester and I liked it a lot,
 so I will go over these books for fun.
 
-Note: all files are handwritten notes, exported from my iPad. I'll convert them all to LateX one day :)
+Note: all files are handwritten notes, exported from my iPad. I'll convert them all to LaTeX one day :)
